@@ -1,0 +1,24 @@
+<blouses>
+	_women
+		*Бяла официална риза,20.99,src/shop/images/blouse_woman1.jpg
+		*Бяла официална риза,27.99,src/shop/images/blouse_woman2.jpg
+	_men
+		*Бяла официална риза,30.99,src/shop/images/menBlouse1.jpg
+		*Тениска,15.99,src/shop/images/menBlouse2.jpg
+</blouses>
+<trousers>
+	_women
+		*Дамски панталон,35.99,src/shop/images/womenTrouser1.jpg
+		*Дамски панталон,38.99,src/shop/images/womenTrouser2.jpg
+	_men
+		*Мъжки панталон,35.99,src/shop/images/menTrouser1.jpg
+		*Мъжки панталон,35.99,src/shop/images/menTrouser2.jpg
+</trousers>
+<wallets>
+	_women
+		*Дамски портфейл,35.99,src/shop/images/womenWallet1.jpg
+		*Дамски портфейл,35.99,src/shop/images/womenWallet2.jpeg
+	_men
+		*Мъжки портфейл,35.99,src/shop/images/menWallet1.jpg
+		*Мъжки портфейл,35.99,src/shop/images/menWallet2.jpg
+</wallets>
